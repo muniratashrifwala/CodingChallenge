@@ -7,3 +7,6 @@ Started with basics of pyhton language
 
 Day 2 - <br/>
 Covered variables, if-else and loops in python 
+
+Day 3 - <br/>
+Covered functions and started with basic arrays 
