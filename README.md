@@ -10,3 +10,6 @@ Covered variables, if-else and loops in python
 
 Day 3 - <br/>
 Covered functions and started with basic arrays 
+
+Day 4 - <br/>
+Continued 2D and 3D arrays topic 
