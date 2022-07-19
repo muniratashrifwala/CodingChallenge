@@ -13,3 +13,6 @@ Covered functions and started with basic arrays
 
 Day 4 - <br/>
 Continued 2D and 3D arrays topic 
+
+Day 5 - <br/>
+Started with data structures
