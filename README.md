@@ -17,5 +17,5 @@ Understanding lists and array
 Day 5 - <br/>
 Worked on methods and functions
 
-Day 6 - 
+Day 6 - <br/>
 Started with Data Structures 
