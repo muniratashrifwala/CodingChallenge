@@ -12,7 +12,10 @@ Day 3 - <br/>
 Covered functions and started with basic arrays 
 
 Day 4 - <br/>
-Continued 2D and 3D arrays topic 
+Understanding lists and array 
 
 Day 5 - <br/>
-Started with data structures
+Worked on methods and functions
+
+Day 6 - 
+Started with Data Structures 
