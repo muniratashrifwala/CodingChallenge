@@ -19,3 +19,6 @@ Worked on methods and functions
 
 Day 6 - <br/>
 Started with Data Structures 
+
+Day 7 and 8 - <br/>
+Covered strings, lists, tuples and dictionary
