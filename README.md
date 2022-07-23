@@ -22,3 +22,7 @@ Started with Data Structures
 
 Day 7 and 8 - <br/>
 Covered strings, lists, tuples and dictionary
+
+Day 9 - 
+Learnt control flow using conditional statements and loops.
+Solved 5 Hacker Rank problems  
