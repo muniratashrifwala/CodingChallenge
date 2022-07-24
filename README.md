@@ -23,6 +23,11 @@ Started with Data Structures
 Day 7 and 8 - <br/>
 Covered strings, lists, tuples and dictionary
 
-Day 9 - 
-Learnt control flow using conditional statements and loops. <br/>
+Day 9 - <br/>
+Started control flow using conditional statements and loops. <br/>
 Solved 5 Hacker Rank problems  
+
+Day 10 - <br/>
+Completed control flow using conditional statements and loops. <br/>
+Solved 3 Hacker Rank problems  
+
