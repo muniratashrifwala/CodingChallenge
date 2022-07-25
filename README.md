@@ -31,3 +31,6 @@ Day 10 - <br/>
 Completed control flow using conditional statements and loops. <br/>
 Solved 3 Hacker Rank problems  
 
+Day 11 - <br/>
+Revised previous study material and worked on a new portfolio website project
+
