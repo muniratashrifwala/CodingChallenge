@@ -35,4 +35,6 @@ Day 11 - <br/>
 Revised previous study material and worked on a new portfolio website project
 
 Day 12 - <br/>
-Covered range and multiple loops 
+Covered range and multiple loops. Solved 2 Hacker Rank problems
+
+Day 13 - <br/>
