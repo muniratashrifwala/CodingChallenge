@@ -34,3 +34,5 @@ Solved 3 Hacker Rank problems
 Day 11 - <br/>
 Revised previous study material and worked on a new portfolio website project
 
+Day 12 - <br/>
+Covered range and multiple loops 
