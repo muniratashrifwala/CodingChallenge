@@ -38,3 +38,6 @@ Day 12 - <br/>
 Covered range and multiple loops. Solved 2 Hacker Rank problems
 
 Day 13 - <br/>
+Covered while loop, zip, enumerate and loop comprehensions
+
+
