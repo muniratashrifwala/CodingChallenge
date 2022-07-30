@@ -40,4 +40,5 @@ Covered range and multiple loops. Solved 2 Hacker Rank problems
 Day 13 - <br/>
 Covered while loop, zip, enumerate and loop comprehensions
 
-
+Day 14 - <br/>
+Started with a mini tic tac toe project using python.
