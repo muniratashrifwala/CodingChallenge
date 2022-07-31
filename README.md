@@ -42,3 +42,6 @@ Covered while loop, zip, enumerate and loop comprehensions
 
 Day 14 - <br/>
 Started with a mini tic tac toe project using python.
+
+Day 15 - <br/>
+Completed mini tic tac toe project 
