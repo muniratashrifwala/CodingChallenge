@@ -45,3 +45,5 @@ Started with a mini tic tac toe project using python.
 
 Day 15 - <br/>
 Completed mini tic tac toe project 
+
+Day 16 - <br/>
