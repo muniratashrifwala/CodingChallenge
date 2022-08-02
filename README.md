@@ -47,3 +47,6 @@ Day 15 - <br/>
 Completed mini tic tac toe project 
 
 Day 16 - <br/>
+Python revision of thr topics covered so far 
+
+Day 17 - <br/>
