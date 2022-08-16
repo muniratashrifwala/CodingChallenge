@@ -47,11 +47,13 @@ Day 15 - <br/>
 Completed mini tic tac toe project 
 
 Day 16 - <br/>
-Python revision of thr topics covered so far 
+Python revision of the topics covered so far 
 
 Day 17 - <br/>
+Python HackerRank Questions solved
 
 Day 18 - <br/>
+Git commands practice
 
 Day 19 -
 
@@ -61,10 +63,8 @@ Day 21 -
 
 Day 22 - 
 
-Day 23 - 
-
-Day 24 - <br>
+Day 23 - <br/>
 Checked out basic React components 
 
-Day 25 - <br>
+Day 24 - <br/>
 Worked on React Project Mini Contact List 
