@@ -63,4 +63,8 @@ Day 22 -
 
 Day 23 - 
 
-Day 24 -
+Day 24 - <br>
+Checked out basic React components 
+
+Day 25 - <br>
+Worked on React Project Mini Contact List 
