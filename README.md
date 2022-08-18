@@ -68,3 +68,6 @@ Checked out basic React components
 
 Day 24 - <br/>
 Worked on React Project Mini Contact List 
+
+Day 25 - <br/>
+Learned about parent and child in react (props)
