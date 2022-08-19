@@ -71,3 +71,6 @@ Worked on React Project Mini Contact List
 
 Day 25 - <br/>
 Learned about parent and child in react (props)
+
+Day 26 -  <br/>
+Learned about basics of React and javascript topics like this, maps and reduce
