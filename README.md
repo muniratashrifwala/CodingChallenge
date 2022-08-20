@@ -74,3 +74,6 @@ Learned about parent and child in react (props)
 
 Day 26 -  <br/>
 Learned about basics of React and javascript topics like this, maps and reduce
+
+Day 27 - <br/>
+Reaact useEffect
