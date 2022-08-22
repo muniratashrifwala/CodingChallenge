@@ -76,7 +76,7 @@ Day 26 -  <br/>
 Learned about basics of React and javascript topics like this, maps and reduce
 
 Day 27 - <br/>
-Reaact useEffect
+React useEffect
 
 Day 28 - <br/>
 Looked into Power Bi and how it works
