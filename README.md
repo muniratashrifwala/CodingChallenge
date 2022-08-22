@@ -80,3 +80,6 @@ Reaact useEffect
 
 Day 28 - <br/>
 Looked into Power Bi and how it works
+
+Day 29 - <br/>
+Practised SQL and Javascript questions on HackerRank
