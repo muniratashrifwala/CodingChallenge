@@ -83,3 +83,6 @@ Looked into Power Bi and how it works
 
 Day 29 - <br/>
 Practised SQL and Javascript questions on HackerRank
+
+Day 30 - <br/>
+Resumed with python udacity course 
