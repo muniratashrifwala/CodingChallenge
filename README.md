@@ -86,3 +86,6 @@ Practised SQL and Javascript questions on HackerRank
 
 Day 30 - <br/>
 Resumed with python udacity course. Solved SQL questions on HackerRank. 
+
+Day 31 - <br/>
+Continued with python udacity course. Solved SQL questions on HackerRank. 
