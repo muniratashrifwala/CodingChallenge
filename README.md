@@ -90,4 +90,6 @@ Resumed with python udacity course. Solved SQL questions on HackerRank.
 Day 31 - <br/>
 Continued with python udacity course. Solved SQL questions on HackerRank. 
 
-Day32 - 
+Day32 - Javascript You dont know JS Part 1 
+
+
