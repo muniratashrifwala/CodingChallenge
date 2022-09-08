@@ -92,4 +92,5 @@ Continued with python udacity course. Solved SQL questions on HackerRank.
 
 Day32 - Javascript You dont know JS Part 1 
 
-
+Day 33- <br/>
+Oops objectives
