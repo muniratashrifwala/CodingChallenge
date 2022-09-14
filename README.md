@@ -94,3 +94,6 @@ Day32 - Javascript You dont know JS Part 1
 
 Day 33- <br/>
 Oops objectives basics
+
+Day 34- <br/>
+Looked into the javascript literals and Hackerank Javascript 10 days challenge
