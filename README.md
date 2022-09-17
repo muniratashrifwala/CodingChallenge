@@ -97,3 +97,6 @@ Oops objectives basics
 
 Day 34- <br/>
 Looked into the javascript literals and Hackerank Javascript 10 days challenge
+
+Day 35 - 
+Completed 4th day of Hackeraank challenge and syntax of javascript
