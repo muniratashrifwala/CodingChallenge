@@ -100,3 +100,6 @@ Looked into the javascript literals and Hackerank Javascript 10 days challenge
 
 Day 35 - 
 Completed 4th day of Hackeraank challenge and syntax of javascript
+
+Day 36 - 
+Hackerrank 5th day completed and Asabeneh JS continued
